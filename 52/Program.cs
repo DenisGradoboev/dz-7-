@@ -8,6 +8,7 @@ int n = Convert.ToInt32(Console.ReadLine());
 int [,] array2d = new int[m, n];
 decimal [] averegest = new decimal [n]; 
 Console.WriteLine("Введите элементы массива в одну строку через запятую");
+void FillArray2Dmath(int [,] array2d, decimal [] averegest){
 for (int i=0; i<m;i++)
 {
     string text = Console.ReadLine();
@@ -20,5 +21,7 @@ for (int i=0; i<m;i++)
     }
 Console.WriteLine();
 }
+}
+FillArray2Dmath(array2d, averegest);
 Console.WriteLine("Средние арифмитические каждого столбца: ");
 Console.WriteLine(string.Join("; ",averegest));
