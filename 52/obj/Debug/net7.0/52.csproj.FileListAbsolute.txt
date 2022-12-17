@@ -1,0 +1,15 @@
+C:\Users\BigPenis\Seminar 7 DZ\52\bin\Debug\net7.0\52.exe
+C:\Users\BigPenis\Seminar 7 DZ\52\bin\Debug\net7.0\52.deps.json
+C:\Users\BigPenis\Seminar 7 DZ\52\bin\Debug\net7.0\52.runtimeconfig.json
+C:\Users\BigPenis\Seminar 7 DZ\52\bin\Debug\net7.0\52.dll
+C:\Users\BigPenis\Seminar 7 DZ\52\bin\Debug\net7.0\52.pdb
+C:\Users\BigPenis\Seminar 7 DZ\52\obj\Debug\net7.0\52.csproj.AssemblyReference.cache
+C:\Users\BigPenis\Seminar 7 DZ\52\obj\Debug\net7.0\52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BigPenis\Seminar 7 DZ\52\obj\Debug\net7.0\52.AssemblyInfoInputs.cache
+C:\Users\BigPenis\Seminar 7 DZ\52\obj\Debug\net7.0\52.AssemblyInfo.cs
+C:\Users\BigPenis\Seminar 7 DZ\52\obj\Debug\net7.0\52.csproj.CoreCompileInputs.cache
+C:\Users\BigPenis\Seminar 7 DZ\52\obj\Debug\net7.0\52.dll
+C:\Users\BigPenis\Seminar 7 DZ\52\obj\Debug\net7.0\refint\52.dll
+C:\Users\BigPenis\Seminar 7 DZ\52\obj\Debug\net7.0\52.pdb
+C:\Users\BigPenis\Seminar 7 DZ\52\obj\Debug\net7.0\52.genruntimeconfig.cache
+C:\Users\BigPenis\Seminar 7 DZ\52\obj\Debug\net7.0\ref\52.dll
